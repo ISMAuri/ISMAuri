@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there, I'm Ismael 👋
 
-<!--
-**ISMAuri/ISMAuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student at CEUTEC
 
-Here are some ideas to get you started:
+💻 Passionate about software development, artificial intelligence, and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently working as a Mathematics and Computer Science Tutor.
+
+🌎🇭🇳 Honduras.
+
+---
+
+### About Me
+
+* 🔭 Currently building personal software projects.
+* 🌱 Learning more about AI, software engineering, and system design.
+* 🤖 Interested in artificial intelligence and machine learning.
+* 🧠 Enjoy solving programming and mathematical problems.
+* 🎯 Goal: Become a Software Engineer and contribute to impactful technology projects.
+
+---
+
+### Tech Stack
+
+```text
+Languages:    Python • SQL • PHP • JavaScript • C
+Databases:    MySQL
+Web:          HTML • JavaScript • PHP
+Tools:        Git • GitHub • Excel
+```
+
