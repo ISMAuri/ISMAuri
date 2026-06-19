@@ -20,6 +20,26 @@
 
 ---
 
+Computer Science Engineering Student
+
+Currently:
+- Building software projects
+- Learning AI and machine learning
+- Tutoring mathematics and computer science students
+
+Interests:
+- Software Engineering
+- Artificial Intelligence
+- Backend Development
+- Databases
+- Problem Solving
+
+Tech:
+Python | SQL | PHP | JavaScript | C | MySQL
+
+Favorite quote:
+"Stay curious."
+
 ### Tech Stack
 
 ```text
